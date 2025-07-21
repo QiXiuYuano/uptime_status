@@ -1,7 +1,7 @@
 {
   "name": "uptime-status",
   "version": "1.0.0",
-  "private": false,
+  "private": true,
   "author": "七修远",
   "url": "https://home.630226.xyz",
   "email": "wchge63@gmail.com",
