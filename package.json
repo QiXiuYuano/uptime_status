@@ -2,12 +2,12 @@
   "name": "uptime-status",
   "version": "1.0.0",
   "private": true,
-  "author": "七修远",
+  "author": "QiXiuYuano",
   "url": "https://home.630226.xyz",
   "email": "wchge63@gmail.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/JLinmr/Uptime-Status"
+    "url": "https://github.com/QiXiuYuano"
   },
   "type": "module",
   "scripts": {
