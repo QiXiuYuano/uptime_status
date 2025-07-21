@@ -1,8 +1,8 @@
 {
   "name": "uptime-status",
   "version": "1.0.0",
-  "private": true,
-  "author": "QiXiuYuano",
+  "private": false,
+  "author": "七修远",
   "url": "https://home.630226.xyz",
   "email": "wchge63@gmail.com",
   "repository": {
